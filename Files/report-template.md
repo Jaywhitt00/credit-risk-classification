@@ -5,8 +5,14 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
+The purpose of this analysis is to predict credit risk for peer to peer using machine learning.
+The data included loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, total debt and loan status.
+
 * Explain what financial information the data was on, and what you needed to predict.
+I needed to predtict if the loan was healthy or not.
+
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
+
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
