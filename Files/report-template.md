@@ -13,6 +13,7 @@ I needed to predtict if the loan was healthy or not.
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
+* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
 * Describe the stages of the machine learning process you went through as part of this analysis.
 
@@ -26,7 +27,6 @@ Create and fit a secondary logistic regression model with resampled data
 Evaluate the secondary model's performance by observing the same accuracy, precision, recall, and f1 scores
 
 
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
 ## Results
 
@@ -39,8 +39,8 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 * Machine Learning Model 1:
     * Description of Model 1 Accuracy, Precision, and Recall scores.
 
-Accuracy:
-Precision:
+Accuracy:99.6
+Precision: 99%
 
 Healthy Loans- 1.00
 High-Risk Loans- .87
